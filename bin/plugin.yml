@@ -1,0 +1,13 @@
+main: Polpy.DonaDoBar.npc.Main
+name: DonaDoBar
+version: 0.2
+author: Polpy
+
+commands:
+  createsenhora:
+    default: op
+  showallnpcs:
+    default: op
+  deleteallnpcs:
+    default: op
+  
